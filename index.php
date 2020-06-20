@@ -1,3 +1,10 @@
+<!--
+Author: Austin Parker
+Date: 6-20-2020
+index.php
+Index page that defines F3 functions to produce views and maintain data.
+-->
+
 <?php
 
 //Turn on error reporting
