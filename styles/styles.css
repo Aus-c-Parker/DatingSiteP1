@@ -3,3 +3,16 @@ img {
     max-height: 100%;
     display: block;
 }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.comment {
+    font-style: italic;
+    text-align: center;
+}
